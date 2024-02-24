@@ -1,0 +1,2 @@
+#include "src/control/OGL.h"
+MYICON ICON resources/aditya.ico

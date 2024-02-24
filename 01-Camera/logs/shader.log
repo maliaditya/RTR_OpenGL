@@ -1,0 +1,3 @@
+shader type:: 35633
+Compilation log:: 0(10) : error C0000: syntax error, unexpected ';', expecting "::" at token ";"
+
